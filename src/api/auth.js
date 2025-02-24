@@ -1,5 +1,5 @@
 // libs
-import bcrypt from 'bcrypt';
+import bcrypt from 'bcryptjs';
 import { Router } from 'express';
 
 // modules
